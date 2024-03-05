@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi! 👋
+I do Fullstack coding, Offensive Security and DevOps
 
-<!--
-**webwizarding/webwizarding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on real time face detection (With OpenCV)
+- 🌱 I’m currently learning Kotlin
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profficient Languages:
+- Golang
+- Java
+- Python
+
+---
+
+Experienced languages:
+- Bash
+- C
+- C++
+- PHP
+- ASM
+- HTML
+- CSS (Tailwind)
+- Typescript (react)
+- Javascript
+- Kotlin
+
+---
+
+![](https://leetcard.jacoblin.cool/sereceeem?ext=activity)
+
+
+
