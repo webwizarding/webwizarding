@@ -2,7 +2,7 @@
 I do Fullstack coding, Offensive Security and DevOps
 
 - 🔭 I’m currently working on real time face detection (With OpenCV)
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin & Swift
 
 ---
 
