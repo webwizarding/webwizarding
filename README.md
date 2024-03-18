@@ -14,6 +14,7 @@ Profficient Languages:
 ---
 
 Experienced languages:
+- Mojo
 - Bash
 - C
 - C++
