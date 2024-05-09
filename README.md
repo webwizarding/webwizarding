@@ -28,12 +28,6 @@ Experienced languages:
 
 ---
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@webwizard/30-nites-of-code)  
-  ![@webwizard #30NitesOfCode](https://www.codedex.io/api/petStatus?user=webwizard)
-
----
-
 ![](https://leetcard.jacoblin.cool/sereceeem?ext=activity)
 
 
