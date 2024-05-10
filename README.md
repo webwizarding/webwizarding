@@ -14,6 +14,7 @@ Proficient Languages:
 ---
 
 Experienced languages:
+- Rust
 - Mojo
 - Bash
 - C
