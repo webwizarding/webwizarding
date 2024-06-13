@@ -1,8 +1,8 @@
 ## Hi! 👋
 I do Fullstack coding, Offensive Security and System Adminstration
 
-- 🔭 I’m currently working on real time face detection (With OpenCV)
-- 🌱 I’m currently learning Kotlin & Swift
+- 🔭 I’m currently working on datasets and algorithms
+- 🌱 I’m currently learning Kotlin
 
 ---
 
